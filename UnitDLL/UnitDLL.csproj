@@ -8,9 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="LibraryDLL">
-      <HintPath>bin\Debug\net7.0\LibraryDLL.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\LibraryDLL\LibraryDLL.csproj" />
+    <ProjectReference Include="..\LibraryUnitTests\LibraryUnitTests.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,12 @@
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\bin\Debug\net7.0\LibraryDLL.deps.json
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\bin\Debug\net7.0\LibraryDLL.dll
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\bin\Debug\net7.0\LibraryDLL.pdb
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\LibraryDLL.csproj.AssemblyReference.cache
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\LibraryDLL.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\LibraryDLL.AssemblyInfoInputs.cache
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\LibraryDLL.AssemblyInfo.cs
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\LibraryDLL.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\LibraryDLL.dll
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\refint\LibraryDLL.dll
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\LibraryDLL.pdb
+\\main\RDP\33П\ТокареваЭО\Desktop\p\mamsh\UnitDLL\LibraryDLL\obj\Debug\net7.0\ref\LibraryDLL.dll
